@@ -1,0 +1,8 @@
+numpy
+iso3166
+datetime
+pandas
+matplotlib
+plotly
+plotly-express
+jupyter
